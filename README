@@ -1,0 +1,1 @@
+Building QPID requires Arduino 17 along with the Async Labs WiShield library configured to use WiServer.
